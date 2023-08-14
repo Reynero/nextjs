@@ -1,0 +1,2 @@
+//here is you wanted you could make another dynamic page on top of /new-meetup
+//like /new-meetup/
